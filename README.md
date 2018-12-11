@@ -1,2 +1,1 @@
-# testing
-to test my knowledge about github
+# AstroParty_CMSC137
